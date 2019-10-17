@@ -7,7 +7,7 @@ Greg Barbieri - [@gfbarbieri](https://github.com/gfbarbieri)
 ## Description of Task
 The goal of this project is to demonstrate knowledge and use of the data science pipeline, as well as machine learning models and the Yellowbrick library. I will accomplish these goals by predicting income categories of households participating in the Consumer Expenditure (CE) Interview survey, a survey conducted by the Census Bureau on behalf of the Bureau of Labor Statistics (BLS).
 
-Three notebooks were drafted, each covering distinct portions of the data science pipeline: (1) ingestion and wrangling, (2) feature selection, and (3) model selection and evaluation including hyper-parameter tuning. The request was for one single notebook to cover the data science pipeline and demonstrate competency with ML models and the Yellowbrick library, so I created an abridged version the three notebooks.
+Three notebooks were drafted, each covering distinct portions of the data science pipeline: (1) ingestion and wrangling, (2) feature selection, and (3) model selection and evaluation including hyper-parameter tuning. The request was for one single notebook to cover the data science pipeline and demonstrate competency with ML models and the Yellowbrick library, so I compiled an abridged version of the three parts.
 
 #### Part 1:
 Part 1 demonstrates beginning the data pipeline, ingesting data over the web, using preprocessing techniques to encode a target variable, aggregating data to create features, using visual techniques to assess the quality of the data, and storing the data using WORM methodology.

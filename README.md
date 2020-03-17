@@ -1,5 +1,5 @@
 # Data Science Certificate Teaching Assistant
-Machine learning project for the TA position at Georgetown. Proving my parents right, I am so totally successful.
+Machine learning project for the TA position at Georgetown.
 
 ### Author:
 Greg Barbieri - [@gfbarbieri](https://github.com/gfbarbieri)  

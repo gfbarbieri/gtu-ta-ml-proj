@@ -20,7 +20,7 @@ Part 3 demonstrates preprocessing, modeling using multiple classifiers, model ev
 
 ### Contents
 **data**: Data resulting from ingestion and wrangling process. Data is ingested from the [CE PUMD website](https://www.bls.gov/cex/pumd_data.htm) and stored in a SQLite database table.  
-**notebooks**: The final notebook covering all competencies is [Predicting_Household_Income.ipynb](notebooks/Predicting_Household_Income.ipynb). Groups of topics are covered in three parts: ingestion and wrangling, feature selection, and model selection and evaluation.
+**notebooks**: The final notebook covering all competencies is [Predicting_Household_Income.ipynb](notebooks/Predicting_Household_Income.ipynb). Groups of topics are covered in three parts: ingestion and wrangling, feature selection, and model selection and evaluation.  
 **model**: Encoding, scaling, and model parameters.  
 
 ## Data Sources
